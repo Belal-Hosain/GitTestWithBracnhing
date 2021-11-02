@@ -1,2 +1,6 @@
 This is Hello World Page
-World
+<<<<<<< HEAD
+
+=======
+Hello
+>>>>>>> TestBranch
